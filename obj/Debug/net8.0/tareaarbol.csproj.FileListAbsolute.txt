@@ -1,0 +1,14 @@
+C:\Users\keily\Documents\programacion III\tareasprogratres\tarearbol\tareaarbol\bin\Debug\net8.0\tareaarbol.exe
+C:\Users\keily\Documents\programacion III\tareasprogratres\tarearbol\tareaarbol\bin\Debug\net8.0\tareaarbol.deps.json
+C:\Users\keily\Documents\programacion III\tareasprogratres\tarearbol\tareaarbol\bin\Debug\net8.0\tareaarbol.runtimeconfig.json
+C:\Users\keily\Documents\programacion III\tareasprogratres\tarearbol\tareaarbol\bin\Debug\net8.0\tareaarbol.dll
+C:\Users\keily\Documents\programacion III\tareasprogratres\tarearbol\tareaarbol\bin\Debug\net8.0\tareaarbol.pdb
+C:\Users\keily\Documents\programacion III\tareasprogratres\tarearbol\tareaarbol\obj\Debug\net8.0\tareaarbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keily\Documents\programacion III\tareasprogratres\tarearbol\tareaarbol\obj\Debug\net8.0\tareaarbol.AssemblyInfoInputs.cache
+C:\Users\keily\Documents\programacion III\tareasprogratres\tarearbol\tareaarbol\obj\Debug\net8.0\tareaarbol.AssemblyInfo.cs
+C:\Users\keily\Documents\programacion III\tareasprogratres\tarearbol\tareaarbol\obj\Debug\net8.0\tareaarbol.csproj.CoreCompileInputs.cache
+C:\Users\keily\Documents\programacion III\tareasprogratres\tarearbol\tareaarbol\obj\Debug\net8.0\tareaarbol.dll
+C:\Users\keily\Documents\programacion III\tareasprogratres\tarearbol\tareaarbol\obj\Debug\net8.0\refint\tareaarbol.dll
+C:\Users\keily\Documents\programacion III\tareasprogratres\tarearbol\tareaarbol\obj\Debug\net8.0\tareaarbol.pdb
+C:\Users\keily\Documents\programacion III\tareasprogratres\tarearbol\tareaarbol\obj\Debug\net8.0\tareaarbol.genruntimeconfig.cache
+C:\Users\keily\Documents\programacion III\tareasprogratres\tarearbol\tareaarbol\obj\Debug\net8.0\ref\tareaarbol.dll
